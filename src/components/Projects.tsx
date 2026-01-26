@@ -10,7 +10,7 @@ const Projects = () => {
     {
   "title": "Smart Food Truck",
   "description": "A real-time food truck management and discovery platform with live location tracking, menu management, and customer chat.",
-  "image": "/public/smart-food-truck.webp ",
+  "image": "/smart-food-truck.webp",
   "category": "Web Application / Food Service",
   "technologies": [
     "React",

@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="absolute inset-0 rounded-full border-4 border-blue-400 shadow-lg shadow-blue-400/30 animate-pulse pointer-events-none"></div>
             {/* Profile image */}
             <img
-              src="public/My2.jpeg"
+              src="/My2.jpeg"
               alt="Tummala Pranav"
               className="w-full h-full rounded-full object-cover absolute top-0 left-0 z-10"
               style={{ background: 'transparent' }}
