@@ -1,4 +1,4 @@
-Jaswanth.Dev - Personal Technical Portfolio
+Personal Technical Portfolio
 
 Scalable Full-Stack Developer Portfolio
 Role: Personal Project
