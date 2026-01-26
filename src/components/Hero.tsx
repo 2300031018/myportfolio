@@ -24,6 +24,10 @@ const Hero = () => {
               alt="Tummala Pranav"
               className="w-full h-full rounded-full object-cover absolute top-0 left-0 z-10"
               style={{ background: 'transparent' }}
+              onError={(e) => {
+                console.error('Profile image failed to load');
+                e.currentTarget.src = '/placeholder.svg';
+              }}
             />
           </div>
         </div>
