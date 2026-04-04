@@ -14,13 +14,12 @@ const Projects = () => {
   "category": "Web Application / Food Service",
   "technologies": [
     "React",
-    "JavaScript",
     "Node.js",
     "Express",
     "MongoDB",
-    "Google Maps API"
+    "OpenStreetMap API"
   ],
-    liveUrl: "https://smart-food-truck.vercel.app/",
+    liveUrl: "https://pranavtummalasmartfoodtruck.app/",
     githubUrl: "https://github.com/2300031018/smart-food-truck.git",
     },
     

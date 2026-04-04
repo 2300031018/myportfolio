@@ -38,15 +38,13 @@ const Contact = () => {
                 <div>
                   <h4 className="text-lg font-semibold text-gray-200 mb-1">Email</h4>
                   <a 
-                    href="mailto:tummalapranav2006@gmail.com
-"
+                    href="mailto:tummalapranav2006@gmail.com"
                     className="text-gray-400 hover:text-emerald-400 transition-colors duration-300"
                   >
                     tummalapranav2006@gmail.com
                   </a>
                 </div>
               </div>
-
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 bg-gradient-to-r from-blue-400 to-emerald-400 rounded-lg flex items-center justify-center flex-shrink-0">
                   <Phone className="w-6 h-6 text-white" />

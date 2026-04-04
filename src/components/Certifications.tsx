@@ -4,6 +4,15 @@ import { Award, Download, Eye, ExternalLink } from 'lucide-react';
 const Certifications = () => {
 
   const certifications = [
+    {
+      title: "AWS Certified Cloud Practitioner CLF-C02",
+      description: "Validation of foundational cloud computing skills and knowledge of AWS services and best practices.",
+      issuer: "Amazon Web Services (AWS)",
+      date: "March 2026",
+      verificationUrl: "https://www.credly.com/badges/71de368a-2e39-4795-892a-0e6580e6c1af",
+      previewUrl: "/AWS Certified Cloud Practitioner certificate.pdf",
+      downloadUrl: "https://drive.google.com/file/d/1M1sff9XeO3HpPMwSkjWulnM8rSOw71Hu/view?usp=sharing",
+    },
      {
       title: "MongoDB Certified Developer Associate",
       description: "Validation of skills in MongoDB development, data modeling, and performance optimization.",
@@ -12,15 +21,6 @@ const Certifications = () => {
       verificationUrl: "https://www.credly.com/badges/74259da4-37a1-428c-a33c-0b33f562b88d/public_url",
       previewUrl: "/MongoDBAssociateDeveloper_Badge20260126-31-lieke0.pdf",
       downloadUrl: "https://drive.google.com/file/d/1aYF54a5KYbjltrDK_Fh7cHdTTB9n3kG8/view?usp=sharing",
-    },
-    {
-      title: "Oracle Cloud Infrastructure 2025 Foundational Associate",
-      description: "Validated understanding of Oracle Cloud Infrastructure services and foundational cloud concepts.",
-      issuer: "Oracle",
-      date: "Oct 2025",
-      verificationUrl: "https://github.com/2300031018/Certificates/blob/main/OracleCloud.pdf",
-      previewUrl: "/download.jpeg",
-      downloadUrl: "https://drive.google.com/file/d/1bH0GyP83-b1L_zRDYE85XjASwqPEyk3j/view?usp=sharing",
     },
     {
       title: "SalesForce Certified AI Associate",
@@ -32,14 +32,16 @@ const Certifications = () => {
       downloadUrl: "https://drive.google.com/file/d/1akdx9p_z_rYWuJvdKZ1DcG8yFENTFO8h/view?usp=sharing",
     },
     {
-      title: "Cisco Internship in Networking with Packet Tracer",
-      description: "Hands-on internship program focused on networking fundamentals, configuration, and troubleshooting using Cisco Packet Tracer.",
-      issuer: "Cisco Systems",
-      date: "May 2024",
-      verificationUrl: "https://www.netacad.com/certificates/?issuanceId=4813e4b4-8324-4a1b-b173-73d14a85576b",
-      previewUrl: "/CiscoNetworks.pdf",
-      downloadUrl: "https://drive.google.com/file/d/1O3DTVYssfQtLXIdoxvaIyYTLRurZS4Cq/view?usp=sharing",
-    }
+      title: "Oracle Cloud Infrastructure 2025 Foundational Associate",
+      description: "Validated understanding of Oracle Cloud Infrastructure services and foundational cloud concepts.",
+      issuer: "Oracle",
+      date: "Oct 2025",
+      verificationUrl: "https://github.com/2300031018/Certificates/blob/main/OracleCertificate.pdf",
+      previewUrl: "/OracleCertificate.pdf",
+      downloadUrl: "https://drive.google.com/file/d/1ylL95VXe1rZwQiCfe9FYlMHKZPZKlUaJ/view?usp=sharing",
+    },
+    
+    
   ];
 
 
