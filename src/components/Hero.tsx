@@ -63,7 +63,7 @@ const Hero = () => {
     className="bg-gradient-to-r from-blue-500 to-emerald-500 hover:from-blue-600 hover:to-emerald-600 text-white px-8 py-3 text-lg font-semibold transition-all duration-300 hover:scale-105"
   >
     <a
-      href="/ResumePranavv.pdf" 
+      href="/ResumePranav.pdf" 
       download
       target="_blank"
       rel="noopener noreferrer"
