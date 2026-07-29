@@ -47,7 +47,7 @@ const Projects = () => {
             Featured Projects
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            A showcase of my latest work spanning web development, AI/ML, mobile apps, and blockchain solutions
+            A showcase of my latest work spanning web development, Data Engineering,DataScience Projects
           </p>
         </div>
 
